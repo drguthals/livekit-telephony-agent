@@ -1,0 +1,12 @@
+# livekit
+livekit
+livekit.agents
+livekit-api
+
+# openai
+livekit.plugins.openai
+openai
+
+# utilities
+dotenv
+twilio  
